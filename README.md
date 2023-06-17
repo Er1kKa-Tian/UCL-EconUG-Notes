@@ -15,8 +15,11 @@ This repository contains self-produced unofficial notes for several modules taug
 
 ### Note for Modules
 
-- [ECON0021 Microeconometrics Part 1](./ECON21_Part1.md)
-- 
+#### Year 3 Modules
+
+- ECON0021 Microeconometrics
+    - [ECON0021 Microeconometrics 1st Half](./pdf/ECON0021_Microeconometrics_W1234-10.pdf)
+    - [ECON0021 Microeconometrics 2nd Half](./pdf/ECON0021_Microeconometrics_W56789.pdf)
 - 
 - 
 - 
