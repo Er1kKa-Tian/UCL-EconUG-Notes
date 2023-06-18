@@ -15,7 +15,7 @@ This repository contains unofficial notes for several modules taught in UCL BSc 
 
 ### Note for Modules
 
-### Year 2 Modules
+#### Year 2 Modules
 - ECON0013 Intermediate Microeconomics
     - 
 - ECON0016 Macroeconomic Theory and Policy
