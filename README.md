@@ -17,7 +17,9 @@ This repository contains unofficial notes for several modules taught in UCL BSc 
 
 #### Year 2 Modules
 - ECON0013 Intermediate Microeconomics
-    - 
+    - [ECON0013 Intermediate Micro 1st Half Notes](./pdf/ECON0013_1st_Half.pdf)
+    - [ECON0013 Intermediate Micro 1st Half Notes](./pdf/ECON0013_2nd_Half.pdf)
+    - Bonus: [ECON0013 Demand System Illustration](./pdf/ECON0013_Demand_System_Illustration.pdf)
 - ECON0016 Macroeconomic Theory and Policy
     - I only summarised the 1st half of this module
     - [ECON0016 Macro Theory and Policy 1st Half Notes](./pdf/ECON0016_Macroeconomic_Thoery_and_Policy_T1.pdf)
