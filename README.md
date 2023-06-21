@@ -19,7 +19,8 @@ This repository contains unofficial notes for several modules taught in UCL BSc 
 - ECON0013 Intermediate Microeconomics
     - 
 - ECON0016 Macroeconomic Theory and Policy
-    - 
+    - I only summarised the 1st half of this module
+    - [ECON0016 Macro Theory and Policy 1st Half Notes](./pdf/ECON0016_Macroeconomic_Thoery_and_Policy_T1.pdf)
 
 #### Year 3 Modules
 
