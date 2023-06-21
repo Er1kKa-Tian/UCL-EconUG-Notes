@@ -40,6 +40,6 @@ This repository contains unofficial notes for several modules taught in UCL BSc 
 - ECON0113 Advanced Economics of Finance
     - [ECON0113 Advanced Econ of Finance Notes](./pdf/ECON0113_Adv_Econ_of_Finance.pdf)
 - MATH0048 Math Analysis
-    - 
+    - [MATH0048 Math Analysis Notes](./pdf/MATH0048_Math_Analysis_Notes.pdf)
 
 ## Thanks
