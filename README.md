@@ -3,6 +3,7 @@
 ## Introduction
 
 This repository contains unofficial notes for several modules taught in UCL BSc Economics programme, together with some other handy suggestions.
+You may `git clone` this repo or download the files that you need.
 
 ## Table of Contents / Index
 
@@ -18,7 +19,7 @@ This repository contains unofficial notes for several modules taught in UCL BSc 
 #### Year 2 Modules
 - ECON0013 Intermediate Microeconomics
     - [ECON0013 Intermediate Micro 1st Half Notes](./pdf/ECON0013_1st_Half.pdf)
-    - [ECON0013 Intermediate Micro 1st Half Notes](./pdf/ECON0013_2nd_Half.pdf)
+    - [ECON0013 Intermediate Micro 2nd Half Notes](./pdf/ECON0013_2nd_Half.pdf)
     - Bonus: [ECON0013 Demand System Illustration](./pdf/ECON0013_Demand_System_Illustration.pdf)
 - ECON0016 Macroeconomic Theory and Policy
     - I only summarised the 1st half of this module
